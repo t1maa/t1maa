@@ -4,7 +4,7 @@ Check my blog at https://securedev.info!
 ### About Me
 - 👦🏼 I'm Temirlan Kokimbaev, 23
 - 🏠 Live in Almaty, KZ
-- 🔭 I’m currently working as Leading specialist at SB Sberbank of Russia JSC
+- 👨🏼‍🎓 I’m student and currently working as Leading specialist in Information security
 - 👨🏼‍💻 Penetration testing and Web Development
 - ❤️ Programming
 
